@@ -7,7 +7,7 @@ PowerShell scripts for conveniently downloading content from YouTube, allowing y
 ### PowerShell Scripts
 
 * **`yt-mp4.ps1`**: Downloads a YouTube video with a specified quality and the best available audio stream.
-* **`yt-mp3.ps1`**: Downloads the best available audio stream from one or more YouTube URLs. It extracts the audio and saves it as a high-quality MP3 file.
+* **`yt-mp3.ps1`**: Downloads the best available audio stream from one or more YouTube URLs.
 
 ## Prerequisites
 
