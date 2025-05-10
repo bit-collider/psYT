@@ -79,12 +79,6 @@ Where:
 * `<Video Title>`: The title of the video.
 * `<Extension>`: `mp4` for video downloads and `mp3` for audio downloads.
 
-## Error Handling
-
-The scripts include basic error handling and will display a usage message and exit if:
-
-* No arguments are provided when the script is run.
-* A mandatory argument, such as the YouTube URL, is missing.
 
 ## Important Notes
 
