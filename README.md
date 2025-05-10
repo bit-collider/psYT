@@ -1,6 +1,6 @@
 # psYT
 
-This repository provides PowerShell scripts for conveniently downloading content from YouTube, allowing you to specify video quality and extract audio.
+PowerShell scripts for conveniently downloading content from YouTube, allowing you to specify video quality and extract audio.
 
 ## Scripts
 
