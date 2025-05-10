@@ -13,7 +13,7 @@ PowerShell scripts for conveniently downloading content from YouTube, allowing y
 
 Ensure that these tools are installed and accessible in your system's PATH or located in the same directory as these scripts.
 
-* **yt-dlp**: These scripts rely on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a powerful command-line tool for downloading videos and audio from YouTube and various other platforms.
+* **yt-dlp**: These scripts rely on [yt-dlp](https://github.com/yt-dlp/yt-dlp), a powerful command-line tool for downloading videos and audio from various platforms.
 
 * **FFmpeg**: These scripts also require [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases), a tool used for processing video and audio files.
 
